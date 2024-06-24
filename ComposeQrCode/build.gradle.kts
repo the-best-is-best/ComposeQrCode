@@ -19,7 +19,7 @@ mavenPublishing {
 }
 
 mavenPublishing {
-    coordinates("io.github.the-best-is-best", "compose_qe_code", "1.0.0")
+    coordinates("io.github.the-best-is-best", "compose_qr_code", "1.0.0")
 
     pom {
         name.set("Compose QrCode")
